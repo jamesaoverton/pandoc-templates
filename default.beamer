@@ -8,6 +8,7 @@ $endif$
 $if(fonttheme)$
 \usefonttheme{$fonttheme$}
 $endif$
+\setbeamertemplate{navigation symbols}{}
 \setbeamertemplate{caption}[numbered]
 \setbeamertemplate{caption label separator}{:}
 \setbeamercolor{caption name}{fg=normal text.fg}
